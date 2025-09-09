@@ -47,6 +47,7 @@ npm install
 /bot support → Get support server link.
 
 /bot vote → Get voting link.
+
 /bot feedback <message> → Send feedback.
 
 /bot leave <serverid> → Force bot to leave a server (owner only).
